@@ -11,8 +11,8 @@ import cucumber.api.testng.AbstractTestNGCucumberTests;
  */
 
 @CucumberOptions(
-		features = { "src/test/resources/Features"}, 
-        glue = {"stepdefinations"},
+		features = { "src/test/resources/Features/lunch.feature"}, 
+        glue = {"stepdefinations/LoginStep"},
 		plugin = {"html:target/cucumber-html-report","pretty", "json:target/cucumber-reports/Cucumber.json"},monochrome=true)
 public class Runner extends AbstractTestNGCucumberTests {
 

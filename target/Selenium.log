@@ -125,3 +125,7 @@
 2020-04-28 12:54:29 [INFO ] [Hooks] - [tearDown] ------------->End of scenario change screen resolution and screen rotation <------------
 2020-04-28 12:54:29 [INFO ] [Hooks] - [tearDown] change screen resolution and screen rotationIs Passed
 2020-04-28 12:54:29 [INFO ] [Hooks] - [tearDown] Fetching HTML Reports
+2020-05-01 21:11:30 [INFO ] [Hooks] - [initialsetup] starting the server code started running
+2020-05-01 21:12:02 [INFO ] [Hooks] - [tearDown] ------------->End of scenario Login to Amazon App <------------
+2020-05-01 21:20:00 [INFO ] [Hooks] - [initialsetup] starting the server code started running
+2020-05-01 21:20:24 [INFO ] [Hooks] - [tearDown] ------------->End of scenario Login to Amazon App <------------
